@@ -15,8 +15,8 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 212222240095
-RegisterNumber:  shalini.k
+Developed by:shalini.k
+RegisterNumber:  212222240095
 def newton_method(number,num_iters=100):
     a=float(number)
     for i in range(num_iters):
