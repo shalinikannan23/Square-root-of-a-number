@@ -1,8 +1,6 @@
 # Find the square root of a number
-
 ## AIM:
 To write a program to find the square root of a number.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
@@ -13,7 +11,6 @@ To write a program to find the square root of a number.
 3. Set i = 0.
 4. Calculate  number = 0.5 * (number + a / number) for 100 iterations.
 5. Return number
-
 ## Program:
 ```
 /*
@@ -29,11 +26,7 @@ a=int(input())
 print("Square root of the number:",newton_method(a))
 */
 ```
-
 ## Output:
-![Screenshot (101)](https://user-images.githubusercontent.com/118656529/235409043-f4950736-c024-469d-8629-d61875ba1a3f.png)
-
-
-
+![image](https://github.com/shalinikannan23/Square-root-of-a-number/assets/118656529/f695c1fc-a3d5-45a6-9fb0-0a8ad9f8ff53)
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
